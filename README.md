@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a passionate programmer with a keen interest in the world of images, light, and art. Currently, I'm actively looking for opportunities to collaborate on open-source software projects.
+
 <!--
 **caballeroluis/caballeroluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
