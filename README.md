@@ -44,4 +44,4 @@ https://github.com/caballeroluis/ideas-overflow
 
 ### ✉ Let's Connect & Talk Shop
 * **Location:** Madrid, Spain
-* **Email:** <img width="214" height="25" alt="emailcito" src="https://github.com/user-attachments/assets/c6e24140-8da3-4c07-8582-83d7f89b2106" />
+* **Email:** <img width="214" height="25" alt="emailcito" src="https://github.com/user-attachments/assets/065d08de-ebd7-4649-af57-29cbbb6c950c" />
